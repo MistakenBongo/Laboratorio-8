@@ -1,1 +1,4 @@
-# Laboratorio-8
+# Mi primer repositorio con Git
+
+Alumno: Martin Rojo
+Curso: INF2012
